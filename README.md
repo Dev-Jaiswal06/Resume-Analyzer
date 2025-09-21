@@ -1,17 +1,17 @@
 # Resume-Analyzer
 to detect the resume
 <br>
-resume-analyzer/
- ├── backend/
- │   ├── app/
- │   │   ├── main.py
- │   │   ├── utils.py
- │   │   └── requirements.txt
- │   └── Dockerfile  (optional)
- ├── frontend/
- │   ├── package.json
- │   ├── public/
- │   └── src/
- │       ├── index.js
- │       ├── App.jsx
- │       └── components/ResumeUploader.jsx
+resume-analyzer/<br>
+ ├── backend/<br>
+ │   ── app/<br>
+ │      ├── main.py<br>
+ │      ├── utils.py<br>
+ │      └── requirements.txt<br>
+ │  <br>
+ ├── frontend/<br>
+ │   ├── package.json<br>
+ │   ├── public/<br>
+ │   └── src/<br>
+ │       ├── index.js<br>
+ │       ├── App.jsx<br>
+ │       └── components/ResumeUploader.jsx<br>
